@@ -9,3 +9,6 @@ Git Commands Hands On :
 7. git diff firstcommitId SecondCommitId - Check difference between two commits
 8. git log --oneline - Show commit history in one line for each commit 
 9. git checkout filename - Revert changes from file before statging
+10. git branch - Shows the current branch
+11. git branch dev - Creates new branch named dev
+12. git checkout dev - Switched to dev branch
