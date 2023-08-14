@@ -13,3 +13,4 @@ Git Commands Hands On :
 11. git branch dev - Creates new branch named dev
 12. git checkout dev - Switched to dev branch
 13. git merge dev - Merges dev branch to current branch(master)	
+14. git remote add origin url-of-remote-repo.
