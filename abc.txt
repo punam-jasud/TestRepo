@@ -12,4 +12,4 @@ Git Commands Hands On :
 10. git branch - Shows the current branch
 11. git branch dev - Creates new branch named dev
 12. git checkout dev - Switched to dev branch
-13. git merge dev - Merges dev branch to current branch(master)
+13. git merge dev - Merges dev branch to current branch(master)	
