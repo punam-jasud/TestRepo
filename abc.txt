@@ -1,10 +1,11 @@
 Git Commands Hands On :
 
-1. git init
-2. git status 
-3. git add file-name
-4. git add .
-5. git commit -m "Message"
-6. git log
-7. git diff firstcommitId SecondCommitId
-8. git log --oneline
+1. git init - Initialize empty git repo in local
+2. git status - Check status of repo
+3. git add file-name - Add single file in staging area
+4. git add . - Add all files in staging area
+5. git commit -m "Message" - Commmit the changes
+6. git log - Check commit history
+7. git diff firstcommitId SecondCommitId - Check difference between two commits
+8. git log --oneline - Show commit history in one line for each commit 
+9. git checkout filename - Revert changes from file before statging
