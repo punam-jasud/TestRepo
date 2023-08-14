@@ -6,3 +6,5 @@ Git Commands Hands On :
 4. git add .
 5. git commit -m "Message"
 6. git log
+7. git diff firstcommitId SecondCommitId
+8. git log --oneline
