@@ -15,3 +15,4 @@ Git Commands Hands On :
 13. git merge dev - Merges dev branch to current branch(master)	
 14. git remote add origin url-of-remote-repo.
 16. git push - To push changes to remote repo
+17. dummy text
