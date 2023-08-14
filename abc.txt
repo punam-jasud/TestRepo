@@ -5,3 +5,4 @@ Git Commands Hands On :
 3. git add file-name
 4. git add .
 5. git commit -m "Message"
+6. git log
